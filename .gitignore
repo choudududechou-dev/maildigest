@@ -1,0 +1,9 @@
+.env
+*.wav
+*.mp3
+__pycache__/
+*.pyc
+renders/
+v2_render/
+v3_video/
+clips/
