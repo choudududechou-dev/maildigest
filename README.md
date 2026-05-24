@@ -10,7 +10,21 @@
 - 🔄 读取后自动标为已读，不重复处理
 - ⏰ 支持 Windows 定时任务 + 手动触发
 
-## 快速开始
+## Claude Code Plugin 安装（推荐）
+
+```bash
+# 添加插件市场（只需一次）
+claude plugin marketplace add choudududechou-dev/claude-plugins
+
+# 安装
+claude plugin install maildigest
+```
+
+安装后对 Claude 说：**帮我设置邮件日报**，Claude 会一步步引导你配置。
+
+---
+
+## 手动安装
 
 ### 1. 安装 Python
 
