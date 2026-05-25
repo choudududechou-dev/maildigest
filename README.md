@@ -2,6 +2,10 @@
 
 自动读取多个邮箱的未读邮件，通过 DeepSeek AI 智能分类并生成摘要，推送到飞书群。
 
+## 效果演示
+
+![MailDigest Demo](maildigest-demo.gif)
+
 ## 功能
 
 - 📬 支持 QQ邮箱 / 163 / 126 / 新浪 / Outlook（转发）等所有主流邮箱
